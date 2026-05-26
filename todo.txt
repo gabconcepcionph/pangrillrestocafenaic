@@ -1,0 +1,45 @@
+TODO — PAN GRILL Resto + Cafe Naic Landing Page
+Generated: 2026-05-26
+========================================
+
+CRITICAL (blocks launch)
+------------------------
+[x] Hero image: images/hero.jpg — downloaded from menufyy
+[x] Google Maps embed with place ID
+[x] Phone numbers with tel: links
+[x] Business hours populated
+
+CONTENT (needs real copy or data)
+----------------------------------
+[x] Menu section — populated with known items from reviews/menufyy
+[x] Reviews section — 3 real customer reviews from Google
+[x] About section — written from available business info
+
+IMAGES (files to source and drop into images/)
+-----------------------------------------------
+[x] images/hero.jpg — downloaded (206KB)
+[x] images/about.jpg — downloaded (150KB)
+[x] images/gallery/01.jpg through 07.jpg — 7 gallery photos downloaded
+
+SEO (complete before going live)
+---------------------------------
+[ ] Submit sitemap.xml to Google Search Console after deploy
+[ ] Validate JSON-LD at https://search.google.com/test/rich-results
+[x] og:locale set to en_PH
+[x] Geo tags populated with coordinates
+[x] LocalBusiness JSON-LD complete
+
+ALL DONE
+------------------------------
+[x] Navigation with smooth scroll and mobile menu
+[x] Hero section with background image and gradient overlay
+[x] About section with business story
+[x] Menu section with tabbed categories (Mains, Pasta, Coffee, Desserts)
+[x] Gallery section with GLightbox lightbox (7 photos)
+[x] Reviews section with 3 real Google reviews
+[x] Contact section with map embed, address, phone, hours
+[x] Footer with links and contact info
+[x] Preview banner with close button
+[x] SEO meta tags, Open Graph, Twitter Card
+[x] JSON-LD structured data
+[x] robots.txt
